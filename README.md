@@ -26,12 +26,12 @@ pip install -r requirements.txt
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/mnist-digit-recognition-app.git
+    git clone https://github.com/jaywyawhare/Digit-Recognition
     ```
     
 2. Navigate to the project directory:
     ```bash
-    cd mnist-digit-recognition-app
+    cd Digit-Recognition
     ```
 
 3. Place your pre-trained model file (mnist.h5) in the model directory.
