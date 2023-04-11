@@ -4,3 +4,4 @@ keras
 streamlit
 opencv-python
 tensorflow
+streamlit-drawable-canvas
